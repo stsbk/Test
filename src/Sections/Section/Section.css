@@ -1,0 +1,29 @@
+.section {
+    position: relative;
+    height: 600px;
+}
+
+.section_puddle {
+    position: absolute;
+    height: 400px;
+}
+
+.section_dots {
+    position: absolute;
+    top: 150px;
+    height: 150px;
+    left: -50px;
+}
+
+.section_main {
+    position: absolute;
+    border-radius: 50%;
+    height: 400px;
+    left: 100px;
+}
+
+.section_card {
+    position: absolute;
+    top: 280px;
+    left: 170px;
+}

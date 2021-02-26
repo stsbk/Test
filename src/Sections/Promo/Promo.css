@@ -1,0 +1,22 @@
+.promo-img {
+    position: relative;
+}
+
+.promo_dots {
+    position: absolute;
+    height: 200px;
+    top: 19px;
+}
+
+.promo_puddle {
+    position: absolute;
+    height: 400px;
+    left: 100px;
+    top: 70px;
+}
+
+.promo {
+    position: absolute;
+    height: 450px;
+    left: 100px;
+}

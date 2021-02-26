@@ -1,0 +1,7 @@
+.calc_container {
+    background: #FFFFFF;
+    /* shw-1 */
+
+    box-shadow: 0px 2px 16px rgba(32, 108, 164, 0.16);
+    border-radius: 8px;
+}

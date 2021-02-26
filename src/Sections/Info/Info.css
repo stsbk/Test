@@ -1,0 +1,25 @@
+.info_assets {
+    position: relative;
+}
+
+.info_puddle {
+    position: absolute;
+}
+
+.info_dots {
+    position: absolute;
+}
+
+.info_man {
+    position: absolute;
+}
+
+.card_cell {
+    position: relative;
+}
+
+.info_card {
+    position: absolute;
+    top: 100px;
+    left: 100px;
+}

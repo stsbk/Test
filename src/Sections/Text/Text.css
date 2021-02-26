@@ -1,0 +1,25 @@
+.text_assets {
+    position: relative;
+}
+
+.text_puddle {
+    position: absolute;
+    height: 250px;
+    left: 300px;
+}
+
+.text_dots {
+    position: absolute;
+    left: 300px;
+    height: 150px;
+}
+
+.text_pic {
+    position: absolute;
+    height: 200px;
+    left: 250px;
+}
+
+.text_list {
+    list-style-type: none;
+}

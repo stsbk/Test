@@ -1,0 +1,21 @@
+.adv_assets {
+    position: relative;
+}
+
+.adv_puddle {
+    position: absolute;
+    height: 400px;
+}
+
+.adv_dots {
+    position: absolute;
+    height: 150px;
+    top: 200px;
+    left: -50px;
+}
+
+.adv_imgWomen {
+    position: absolute;
+    height: 300px;
+    top: 50px;
+}
